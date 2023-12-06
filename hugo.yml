@@ -1,14 +1,14 @@
-baseURL: ''
+baseURL: https://oleumauri.com
 Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/oleumauri/oleumauri.com
+  netlify_name: oleumauri
+  netlify_id: 8f313f0b-9c7a-47cf-9d21-302d32581866
+  hook: LW4gNjU3MGU1MjMyMWMzNjIwMDcwNjM5NjYzCg==
+  drive_link: https://drive.google.com/file/d/1-FyUimENFYtKXrjSGn3hkU2f2tNaOWnx
+  drive_mails: christi.chrismarius@gmail.com
 defaultContentLanguage: es
 disableLanguages: [en]
 languages:
